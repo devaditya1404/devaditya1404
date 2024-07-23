@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Pizza Deleviry System**
+- 🔭 I’m currently working on **Pizza Delivery System**
 
 - 🌱 I’m currently learning **Data Science**
 
