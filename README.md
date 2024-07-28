@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aditya Bonde</h1>
-<h3 align="center">  </h3>
+<h3 align="center">A passionate frontend-Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devaditya1404&label=Profile%20views&color=0e75b6&style=flat" alt="devaditya1404" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devaditya1404" alt="devaditya1404" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Pizza Delivery System**
+- 🔭 I’m currently working on **Pizza Deleviry System**
 
 - 🌱 I’m currently learning **Data Science**
 
